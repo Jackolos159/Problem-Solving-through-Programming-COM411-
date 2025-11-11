@@ -1,6 +1,6 @@
 # --------------------------------------------------------------
 # File: week8/plots.py
-# Author: [Your Name]
+# Author: Jack Foreshew
 # Description:
 #   Week 8 – Data Visualisation Tasks
 #   This script demonstrates creating line plots using matplotlib.
